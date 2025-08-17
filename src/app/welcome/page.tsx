@@ -12,13 +12,7 @@ function WelcomePage() {
         width={260}
         height={260}
       />
-
-      <Image
-        src="/cpaxt-logo.svg"
-        alt="Welcome"
-        width={260}
-        height={260}
-      />
+      
 
       <div className="flex flex-col gap-[1rem] mt-[6rem] ">
         <Link href="/login">

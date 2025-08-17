@@ -41,7 +41,7 @@ export default function HomePageContent({ initialPosts, makroData }: HomePageCon
 
       <div className="PostContainer w-full flex flex-col gap-[1rem] ">
         <div className="Title w-full flex flex-col ">
-          <h1>จาก Tops ลาดกระบัง</h1>
+          <h1>จาก BigC ลาดกระบัง</h1>
           <p className="p3 text-textsecondary" >อาหารลดราคาจาก Tops ลาดกระบัง </p>
         </div>
         <div className="MakroPost w-full grid grid-cols-2 gap-[1rem] ">
